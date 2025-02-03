@@ -66,3 +66,26 @@ Feel free to submit pull requests or report issues.
 ## Disclaimer
 Use this tool responsibly and only on networks you have permission to scan.
 
+<h2 id="donate" align="center">⚡️ Support</h2>
+
+<details>
+<summary>☕ Buy Me A Coffee</summary>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/vijay922">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+</details>
+
+<p align="center">
+  <b><i>"Keep pushing forward. Never surrender."</i></b>
+</p>
+
+<p align="center">🌱</p>
+
+
+## Author
+[chippa vijay kumar](https://github.com/vijay922)
+
