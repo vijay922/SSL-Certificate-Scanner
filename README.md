@@ -16,8 +16,8 @@ Ensure you have Go installed on your system. You can download it from [golang.or
 ### Installation
 Clone this repository and navigate into the project directory:
 ```sh
-git clone https://github.com/yourusername/ssl-cert-scanner.git
-cd ssl-cert-scanner
+git clone https://github.com/vijay922/SSL-Certificate-Scanner.git
+cd SSL-Certificate-Scanner
 ```
 
 ### Build
