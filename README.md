@@ -23,12 +23,13 @@ cd SSL-Certificate-Scanner
 ### Build
 To compile the binary:
 ```sh
-go build -o sslscan
+go build sslscan.go
+mv sslscan /usr/local/bin/
 ```
 
 ### Run the Scanner
 ```sh
-./sslscan -l cidr.txt -o output.csv -w 100 -t 5s
+sslscan -l cidr.txt -o output.csv -w 100 -t 5s
 ```
 **Options:**
 - `-l`: Path to a file containing CIDR ranges.
